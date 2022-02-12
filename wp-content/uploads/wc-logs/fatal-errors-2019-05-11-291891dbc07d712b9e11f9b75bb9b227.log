@@ -1,0 +1,24 @@
+2019-05-11T13:38:12+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /Applications/MAMP/htdocs/viceshop/wp-content/themes/viceandvirtue/page.php on line 16
+
+2019-05-11T13:38:50+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /Applications/MAMP/htdocs/viceshop/wp-content/themes/viceandvirtue/page.php on line 16
+
+2019-05-11T13:38:58+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /Applications/MAMP/htdocs/viceshop/wp-content/themes/viceandvirtue/page.php on line 16
+
+2019-05-11T14:34:49+00:00 CRITICAL Uncaught Error: Call to a member function get_gallery_image_ids() on null in /Applications/MAMP/htdocs/viceshop/wp-content/themes/viceandvirtue/search.php:26
+Stack trace:
+#0 /Applications/MAMP/htdocs/viceshop/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/viceshop/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/viceshop/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/viceshop/wp-content/themes/viceandvirtue/search.php on line 26
+
+2019-05-11T14:35:14+00:00 CRITICAL Uncaught Error: Call to a member function get_gallery_image_ids() on null in /Applications/MAMP/htdocs/viceshop/wp-content/themes/viceandvirtue/search.php:24
+Stack trace:
+#0 /Applications/MAMP/htdocs/viceshop/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/viceshop/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/viceshop/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/viceshop/wp-content/themes/viceandvirtue/search.php on line 24
+
+2019-05-11T14:58:56+00:00 CRITICAL syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Applications/MAMP/htdocs/viceshop/wp-content/themes/viceandvirtue/functions.php on line 88
+
